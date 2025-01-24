@@ -27,15 +27,15 @@ Soy estudiante de Ingeniería en Sistemas de Informacion en UTN-FRC apasionado p
 
 ### 📬 ¡Contactate conmigo!
 <p align="center">
-  <a href="mailto:santinochamia1192@gmail.com">
+  <a href="mailto:bautipablodiez@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="130" alt="Gmail">
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/santino-zahir-chamia-988237238/">
+  <a href="www.linkedin.com/in/bautista-diez-30623b215">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="130" alt="LinkedIn">
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.instagram.com/santinozc/">
+  <a href="https://www.instagram.com/bauti.diez_/">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="180" alt="Instagram">
   </a>
 </p>
