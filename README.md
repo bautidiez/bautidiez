@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media3.giphy.com/media/YYW0hHizzIOrlhimPG/giphy.gif?cid=6c09b9521e2gjuebsgxxv934u3oh8kxt91zxknp01k0qxj1f&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fviktordevv.medium.com%2Fthe-art-of-web-development-d32c17068868&psig=AOvVaw08Af5muAn_w62usK29AEth&ust=1737823453032000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOiq7P_mjosDFQAAAAAdAAAAABAE" width="500">
 </p>
 
 <!-- Nombre con letras decorativas en GIF -->
