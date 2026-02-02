@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1674617947228?e=1743033600&v=beta&t=kE4yAdyBf7i8WM2uj55YFt04PXLjB5di-jZEUuMHFZs" width="350">
-</p>
+
 
 <!-- Nombre con letras decorativas en GIF -->
 <p align="center">
