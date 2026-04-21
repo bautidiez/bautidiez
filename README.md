@@ -36,10 +36,15 @@ I enjoy working on development projects, exploring new tools, and building solut
 
 <table align="center">
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" width="40"/><br>Python (Advanced)</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" width="40"/><br>Python (Adv)</td>
     <td align="center"><img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" width="40"/><br>TypeScript</td>
     <td align="center"><img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" width="40"/><br>JavaScript</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" width="40"/><br>C / C++</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" width="40"/><br>Java</td>
     <td align="center"><img src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" width="40"/><br>SQL</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/github/explore/main/topics/arduino/arduino.png" width="40"/><br>Arduino</td>
   </tr>
 </table>
 
@@ -67,26 +72,28 @@ I enjoy working on development projects, exploring new tools, and building solut
 <table align="center">
   <tr>
     <td align="center">🧾<br>NLP</td>
-    <td align="center">🧠<br>LLMs</td>
-    <td align="center">👁️<br>Computer Vision (Basic)</td>
+    <td align="center">🧠<br>LLMs (Llama 3)</td>
+    <td align="center">👁️<br>Computer Vision</td>
     <td align="center">📊<br>Data Mining</td>
   </tr>
 </table>
 
 ---
 
-## 🌐 Web Development
+## 🌐 Web Development & Frameworks
 
 <table align="center">
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/github/explore/main/topics/angular/angular.png" width="40"/><br>Angular (v15+)</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/github/explore/main/topics/flask/flask.png" width="40"/><br>Flask</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" width="40"/><br>HTML5</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png" width="40"/><br>Next.js 14</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/github/explore/main/topics/angular/angular.png" width="40"/><br>Angular 15+</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" width="40"/><br>React</td>
+    <td align="center"><img src="https://nestjs.com/img/logo-small.svg" width="40"/><br>NestJS</td>
   </tr>
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" width="40"/><br>CSS3</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" width="40"/><br>Git</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" width="40"/><br>GitHub</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/github/explore/main/topics/flask/flask.png" width="40"/><br>Flask</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/><br>Firebase</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="40"/><br>Vercel / Render</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" width="40"/><br>Git / GitHub</td>
   </tr>
 </table>
 
@@ -96,7 +103,9 @@ I enjoy working on development projects, exploring new tools, and building solut
 
 <table align="center">
   <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" width="40"/><br>PostgreSQL (Neon)</td>
     <td align="center"><img src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" width="40"/><br>MySQL</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" width="40"/><br>PostgreSQL</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40"/><br>SQLite</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40"/><br>Firestore</td>
   </tr>
 </table>
